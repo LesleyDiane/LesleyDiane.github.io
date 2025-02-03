@@ -1,7 +1,7 @@
 #landing {
     position: relative;
-    margin: 0 12px 24px;
     height: 296px;
+    margin-bottom: 2em;
 }
 
 #landing .container {
@@ -10,6 +10,7 @@
 }
 
 #landing .background-container {
+    padding: 0 12px 24px;
     position: absolute;
     filter: brightness(70%);
     z-index: -10;
@@ -19,7 +20,7 @@
     position: relative;
     width: calc(100vw - 24px);
     border-radius: 20px;
-    object-fit: fill;
+    object-fit: cover;
 }
 
 #landing .flex-container {
@@ -32,6 +33,7 @@
 
 #landing .text-container {
     position: relative;
+    max-width: 240px;
     width: 100%;
     height: 100%;
 }
@@ -42,6 +44,12 @@
 
 #landing .text-container h1 {
     margin: 6px 0 12px 0;
+}
+
+#landing .image-container {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
 }
 
 #landing .core-values-container {
@@ -78,7 +86,7 @@
 #landing .clippy-container {
     position: absolute;
     top: -20px;
-    left: 0;
+    left: 12px;
     width: 100%;
     height: calc(100% + 20px);
 }
@@ -86,7 +94,7 @@
 #landing .clippy-container .clippy-right {
     position: absolute;
     bottom: 0;
-    left: 100%;
+    left: calc(100% - 12px);
 }
 
 #about {
@@ -105,7 +113,7 @@
 }
 
 #about .text-container {
-    max-width: 320px;
+    max-width: 240px;
 }
 
 #about .text-container p {
@@ -113,6 +121,12 @@
 }
 
 #about .side-image {
+    flex-grow: 1;
+    object-fit: cover;
+    position: relative;
+    min-height: 120px;
+    max-height: 240px;
+    height: calc(100vw - 240px - 2em);
     border-radius: 20px;
 }
 
@@ -159,7 +173,6 @@
 #features .card .text {
     color: var(--dark-color-2);
     margin-bottom: 2em;
-    font-size: 12px;
 }
 
 #features .card .number {
