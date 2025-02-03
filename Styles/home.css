@@ -159,6 +159,7 @@
 #features .card .text {
     color: var(--dark-color-2);
     margin-bottom: 2em;
+    font-size: 12px;
 }
 
 #features .card .number {
