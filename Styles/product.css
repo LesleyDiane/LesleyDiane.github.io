@@ -1,0 +1,46 @@
+#landing .container {
+    padding-top: 1em;
+}
+
+#landing h1 {
+    color: var(--dark-color-2);
+    margin-bottom: 0.5em;
+}
+
+#features .card-container {
+    background-color: var(--light-color-2);
+    padding: 12px;
+}
+
+#features .card {
+    background-color: var(--light-color-1);
+    border-radius: 20px;
+    padding: 20px;
+
+    margin-bottom: 4px;
+}
+
+#features .title-container {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+
+#features .title-container .number {
+    color: var(--primary-color);
+}
+
+#features .title-container .title {
+    color: var(--dark-color-2);
+}
+
+#features .detail-container {
+    display: flex;
+    flex-direction: row;
+    gap: 1.5em;
+}
+
+#features .detail-container .side-image {
+    object-fit: cover;
+    border-radius: 10px;
+}
