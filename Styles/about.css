@@ -1,0 +1,67 @@
+#landing .container {
+    padding-top: 1em;
+}
+
+#landing h1 {
+    color: var(--dark-color-2);
+    margin-bottom: 0.5em;
+}
+
+#carousel {
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;
+    -ms-scroll-snap-type: mandatory;
+    -ms-scroll-snap-points-x: repeat(100%);
+}
+
+#carousel .card-container {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    gap: 32px;
+}
+
+#carousel .card {
+    position: relative;
+    width: calc(100vw - 64px);
+
+    margin: 0 12px;
+    padding: 20px;
+    background-color: var(--light-color-2);
+    border-radius: 20px;
+
+    scroll-snap-align: center;
+}
+
+#carousel .card-image {
+    position: relative;
+    object-fit: cover;
+    border-radius: 10px;
+    max-width: 100%;
+}
+
+#carousel h2 {
+    text-align: justify;
+    margin: 1em 0 0;
+    color: var(--dark-color-2);
+}
+
+.index-container {
+    position: relative;
+    margin: 1em 0 2em;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 6px;
+}
+
+.index {
+    height: 2px;
+    width: 32px;
+    background-color: var(--neutral-color-2);
+}
+
+.index.active {
+    background-color: var(--primary-color);
+}
