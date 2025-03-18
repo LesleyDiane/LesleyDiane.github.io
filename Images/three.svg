@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="120"
+   height="120"
+   viewBox="0 0 120 120"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="three.svg"
+   inkscape:export-filename="C:\Users\Leslie\Documents\Spica Web Designs\Projects\School Projects\Lampshade Tutorial\logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="2.1949773"
+     inkscape:cx="-33.48554"
+     inkscape:cy="24.373828"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="61.530202"
+       y="36.724832"
+       width="51.382551"
+       height="68.939598"
+       id="rect2131" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2778"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2612"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2495"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2218"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2212"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect2015"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1929"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1429"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#7105ff;fill-opacity:1;stroke:none;stroke-width:10.5205;stroke-linecap:round;stroke-linejoin:bevel;stroke-opacity:0"
+       id="path846"
+       cx="60"
+       cy="60"
+       r="60" />
+    <text
+       xml:space="preserve"
+       id="text2129"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;line-height:1.25;font-family:'Arial Rounded MT Bold';-inkscape-font-specification:'Arial Rounded MT Bold, ';white-space:pre;shape-inside:url(#rect2131);fill:#ffffff;fill-opacity:1"
+       transform="matrix(14.920315,0,0,12.518282,-893.05825,-453.53002)"><tspan
+         x="61.529297"
+         y="43.933875"
+         id="tspan35816">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:8px;line-height:1.25;font-family:'Inria Serif';-inkscape-font-specification:'Inria Serif'"
+       x="-48.747658"
+       y="-74.260452"
+       id="text30906"><tspan
+         sodipodi:role="line"
+         id="tspan30904"
+         x="-48.747658"
+         y="-74.260452" /></text>
+  </g>
+</svg>
