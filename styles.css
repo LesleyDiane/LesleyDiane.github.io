@@ -194,3 +194,16 @@ p {
 .profile {
     border-radius: 38.4px;
 }
+
+@media screen and (max-width: 600px) {
+    html {
+        max-height: 1000px;
+    }
+    header {
+        display: none;
+        visibility: hidden;
+    }
+    body {
+        transform: scale(0.65) translateY(-500px);
+    }
+}
