@@ -1,0 +1,197 @@
+#landing {
+    position: relative;
+    height: 296px;
+    margin-bottom: 2em;
+}
+
+#landing .container {
+    position: relative;
+    height: calc(100% - 64px);
+}
+
+#landing .background-container {
+    padding: 0 12px 24px;
+    position: absolute;
+    filter: brightness(70%);
+    z-index: -10;
+}
+
+#landing .background-container img {
+    position: relative;
+    width: calc(100vw - 24px);
+    border-radius: 20px;
+    object-fit: cover;
+}
+
+#landing .flex-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    position: relative;
+    height: fit-content;
+}
+
+#landing .text-container {
+    position: relative;
+    max-width: 240px;
+    width: 100%;
+    height: 100%;
+}
+
+#landing .text-container p {
+    color: var(--light-color-1);
+}
+
+#landing .text-container h1 {
+    margin: 6px 0 12px 0;
+}
+
+#landing .image-container {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+}
+
+#landing .core-values-container {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background-color: var(--light-color-1);
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    gap: 24px;
+    padding: 4px 24px;
+    border-radius: 0 20px 0 0;
+}
+
+#landing .core-values-container .card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#landing .core-values-container .card img {
+    margin: 12px 6px 6px;
+}
+
+#landing .core-values-container h3 {
+    color: var(--neutral-color-1);
+    margin: 6px 0;
+}
+
+#landing .clippy-container {
+    position: absolute;
+    top: -20px;
+    left: 12px;
+    width: 100%;
+    height: calc(100% + 20px);
+}
+
+#landing .clippy-container .clippy-right {
+    position: absolute;
+    bottom: 0;
+    left: calc(100% - 12px);
+}
+
+#about {
+    position: relative;
+    background-color: var(--light-color-2);
+}
+
+#about .flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: top;
+    gap: 2em;
+
+    margin-top: 2em;
+}
+
+#about .text-container {
+    max-width: 240px;
+}
+
+#about .text-container p {
+    margin-bottom: 3.5em;
+}
+
+#about .side-image {
+    flex-grow: 1;
+    object-fit: cover;
+    position: relative;
+    min-height: 120px;
+    max-height: 240px;
+    height: calc(100vw - 240px - 2em);
+    border-radius: 20px;
+}
+
+#features {
+    position: relative;
+}
+
+#features .background-container {
+    position: absolute;
+    filter: opacity(20%);
+    width: 100vw;
+    height: 100%;
+}
+
+#features .background-container #leaf-1 {
+    transform: scaleY(-1) rotate(50deg);
+    position: absolute;
+    left: -20px;
+    top: 35%;
+}
+
+#features .background-container #leaf-2 {
+    transform: scaleY(-1) scaleX(-1) rotate(50deg);
+    position: absolute;
+    right: -10px;
+    bottom: -10%;
+}
+
+#features .card-container {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-rows: repeat(2, minmax(0, 1fr));
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+}
+
+#features .card {
+    position: relative;
+    border: 1px solid var(--neutral-color-1);
+    padding: 12px;
+    border-radius: 20px;
+}
+
+#features .card .text {
+    color: var(--dark-color-2);
+    margin-bottom: 2em;
+}
+
+#features .card .number {
+    margin-bottom: 0.5em;
+}
+
+#features .card .button-3 {
+    position: absolute;
+    bottom: 12px;
+}
+
+#goal {
+    position: relative;
+    background-color: var(--light-color-2);
+}
+
+#goal img {
+    position: relative;
+    border-radius: 20px;
+    width: 100%;
+    height: auto;
+}

@@ -1,0 +1,55 @@
+#landing .container {
+    padding-top: 1em;
+}
+
+#landing h1 {
+    color: var(--dark-color-2);
+    margin-bottom: 0.5em;
+}
+
+#landing h2 {
+    margin-bottom: 0;
+}
+
+#form {
+    background-color: var(--light-color-2);
+    border-radius: 20px;
+    margin: 0 12px;
+    padding: 20px;
+}
+
+#form form {
+    margin-bottom: 4em;
+}
+
+#form form h3 {
+    color: var(--dark-color-2);
+    margin-bottom: 2em;
+    text-align: left;
+}
+
+#form form input, #form form textarea {
+    display: block;
+    width: 100%;
+    margin: 1em 0;
+    border-radius: 0.25em;
+    border: 0 solid var(--light-2);
+    border-bottom-width: 0.125em;
+    padding: 0.5em;
+    transition: all .5s;
+    height: 1px;
+    height: 2em;
+}
+
+#form form input:hover, #form form textarea:hover, #form form input:active, #form form textarea:active {
+
+    border: 0.125em solid var(--light-2);
+    height: 4em;
+
+}
+
+#form form ::placeholder {
+    font-family: var(--font-family-1);
+    font-size: 1em;
+    color: var(--dark-2);
+}

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="96.405998"
+   height="180"
+   viewBox="0 0 96.405998 180"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="leaf-green.svg"
+   inkscape:export-filename="C:\Users\Leslie\Documents\Spica Web Designs\Projects\EcoBreeze\Images\logo-green.png"
+   inkscape:export-xdpi="410.25601"
+   inkscape:export-ydpi="410.25601"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.4633182"
+     inkscape:cx="93.964525"
+     inkscape:cy="125.39993"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g3961" />
+  <defs
+     id="defs2">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1141"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect1024"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect871"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3961"
+       transform="matrix(0.47594104,0,0,0.46943516,151.1961,-20.896924)"
+       style="fill:#00d47e;fill-opacity:1;stroke:none">
+      <path
+         style="fill:#00d47e;fill-opacity:1;stroke:none;stroke-width:1.69931;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+         d="m -216.4935,425.33861 c -15.10282,-8.55968 -32.65018,-22.2288 -44.90402,-34.97956 -25.29042,-26.31604 -42.02772,-56.6359 -50.95525,-92.30625 -3.27375,-13.08046 -5.91424,-40.53151 -5.21121,-54.17735 2.28515,-44.35642 17.55013,-83.77233 45.64672,-117.86512 10.96289,-13.30254 21.73639,-23.95026 46.80968,-46.263217 9.73481,-8.663109 22.23559,-20.144846 27.77947,-25.514969 7.81322,-7.568311 10.57493,-9.753245 12.28165,-9.716656 3.1823,0.06822 4.80325,3.06107 4.96751,9.171751 0.22371,8.321956 3.272,24.798446 6.63609,35.869134 3.70111,12.179727 10.96309,29.256477 23.45044,55.144247 22.42017,46.47975 30.05344,67.44137 33.4908,91.96849 4.40076,31.4013 -1.62702,56.78782 -19.26173,81.1226 -10.33623,14.26334 -29.56953,33.42216 -47.49051,47.3066 -11.68904,9.0562 -24.11524,17.21521 -24.86175,16.32419 -21.88406,-26.12059 -37.87032,-58.76012 -44.6651,-91.19381 -2.42216,-11.56179 -4.73565,-38.41448 -4.35118,-50.50392 1.28356,-40.36107 13.06009,-81.99681 33.27929,-117.65875 3.88419,-6.85083 4.3001,-9.5562 1.42688,-9.28175 -2.63722,0.2519 -18.01538,19.88522 -27.09749,34.59535 -22.33138,36.16984 -34.27634,77.75784 -34.51235,120.15952 -0.0714,12.83814 3.31309,40.89765 6.36339,52.75573 2.99184,11.63085 9.04691,28.40821 13.86434,38.41527 11.19049,23.24544 29.55347,47.84764 47.42644,63.54058 3.27596,2.8764 5.79214,5.42869 5.59146,5.67172 -0.20067,0.24306 -2.76726,-0.91966 -5.70357,-2.58383 z"
+         id="path1349" />
+    </g>
+  </g>
+</svg>
